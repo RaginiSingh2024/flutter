@@ -18,3 +18,7 @@ void main() {
     print("$original is not an Armstrong Number.");
   }
 }
+
+// Output:
+
+// 153 is an Armstrong Number.
