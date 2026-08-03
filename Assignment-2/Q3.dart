@@ -18,3 +18,7 @@ void main() {
     print("$original is not a Palindrome.");
   }
 }
+
+// Output:
+
+// 121 is a Palindrome.
