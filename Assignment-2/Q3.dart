@@ -20,5 +20,4 @@ void main() {
 }
 
 // Output:
-
 // 121 is a Palindrome.
