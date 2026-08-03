@@ -14,3 +14,7 @@ void main() {
     print("$c is the smallest number.");
   }
 }
+
+// Output:
+
+// 18 is the smallest number.
