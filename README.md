@@ -10,7 +10,7 @@ This repository contains my **Cross Platform App Development (CPA)** coursework 
 - **Language:** Dart
 - **Framework:** Flutter
 
-## 📂 Repository Structure
+## 📂 Repository Structure 
 
 ``` 
 flutter/
