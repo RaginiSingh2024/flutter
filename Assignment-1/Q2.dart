@@ -10,3 +10,5 @@ void main() {
     print("$year is not a Leap Year.");
   }
 }
+// Output:
+// 2024 is a Leap Year.
