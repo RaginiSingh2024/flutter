@@ -13,3 +13,7 @@ void main() {
 
   print("Reversed Number: $reverse");
 }
+
+// Output:
+
+// Reversed Number: 54321
