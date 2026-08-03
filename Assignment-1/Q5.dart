@@ -12,3 +12,7 @@ void main() {
 
   print("Sum of even numbers between 1 and 100 is: $sum");
 }
+
+// Output:
+
+// Sum of even numbers between 1 and 100 is: 2550
