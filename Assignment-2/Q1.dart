@@ -19,3 +19,6 @@ void main() {
     }
   }
 }
+
+// Output
+// Prime numbers between 1 and 100:
