@@ -40,6 +40,10 @@ void main() {
       }
       break;
 
+//       Output:
+
+// Result = 30.0
+
     default:
       print("Invalid Choice.");
   }
